@@ -1,0 +1,11 @@
+# _data/navigation.yml
+# main links
+main:
+  - title: "Locaties"
+    url: /locaties/
+  - title: "Ruimtes"
+    url: /ruimtes/
+  - title: "Over"
+    url: /over/
+  - title: "Contact"
+    url: /contact/
