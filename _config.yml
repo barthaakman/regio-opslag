@@ -62,20 +62,22 @@ defaults:
         actions:
           - label: "Medemblik"
             icon: "fas fa-fw fa-boxes"
-            url: "/locaties"
+            url: "/locaties/#medemblik"
           - label: "Nibbixwoud"
             icon: "fas fa-fw fa-boxes"
-            url: "/locaties"
+            url: "/locaties/#nibbixwoud"
       sidebar:
         - title: "Telefoon"
-          text: "0620675583"
+          text: <a href="tel:06-20675583">06-20675583</a>
+          url: "/contact/"
         - title: "E-mail"
-          text: "info@regioopslag.nl"
-        - title: "Medemblik"
-          text: "Nijverheidsweg 7"
-        - title: "Nibbixwoud"
-          text: "Dorpsstraat 104"
+          text: <a href="mailto:info@regioopslag">info@regioopslag.nl</a>
 
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/bart.haakman.7"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -89,6 +91,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+# Collections
 collections:
   pages:
     output: true

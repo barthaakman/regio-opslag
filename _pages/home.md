@@ -3,20 +3,20 @@ title: "Regio Opslag"
 permalink: /
 feature_row:
   - image_path: http://placehold.it/350x250
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "ruimtes"
+    title: "Ruimtes"
+    excerpt: "Variërend van 10 m2 tot 80 m2. Voorzien van licht, stroom, overhead- en loopdeur."
+    url: "/ruimtes/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Meer details"
 feature_row2:
   - image_path: http://placehold.it/350x250
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "Locaties"
+    title: "Locaties"
+    excerpt: "5 minuten rijden vanaf de A7. 24/7 cameratoezicht. Beveiligde poort met GSM-module. Ruime parkeergelegenheid."
+    url: "/locaties/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"     
+    btn_label: "Meer details"     
 ---
 
 {% include feature_row id="feature_row" type="right" %}
