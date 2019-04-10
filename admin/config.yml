@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: barthaakman/barthaakman.github.io
   branch: master
   site_domain: mystifying-almeida-6f2246.netlify.com
