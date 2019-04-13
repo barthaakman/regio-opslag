@@ -2,20 +2,20 @@
 permalink: /ruimtes/
 toc: true
 toc_label: "Ruimtes"
-# werkruimtes:
-#   - url: /assets/images/binnen.jpg
-#     image_path: /assets/images/binnen.jpg
-#     alt: "Binnen"
-#     title: "Binnen"
-# huisraadopslag:
-#   - url: site.url/site.baseurl/assets/images/box-binnen-1.jpg
-#     image_path: /assets/images/box-binnen-1.jpg
-#     alt: "Box binnenkant"
-#     title: "Box binnenkant"
+werkruimtes:
+  - url: /assets/images/binnen.JPG
+    image_path: /assets/images/binnen.JPG
+    alt: "Binnen"
+    title: "Binnen"
+huisraadopslag:
+  - url: /assets/images/box-binnen-1.jpg
+    image_path: /assets/images/box-binnen-1.jpg
+    alt: "Box binnenkant"
+    title: "Box binnenkant"
 ---
 
 ## Werkruimtes
-![werkruimtes]({{ '/assets/images/binnen.jpg' | relative_url }})
+![werkruimtes]({{ '/assets/images/binnen.JPG' | relative_url }})
 
 Voorzien van:
 
@@ -25,13 +25,14 @@ Voorzien van:
 * Verlichting
 
 ## Huisraadopslag
-![huisraadopslag]({{ '/assets/images/box-binnen-1.jpg' | relative_url }})
+
+{% include gallery id="huisraadopslag" %}
 
 * Beschikbaar in diverse afmetingen
 * Bereikbaar via lift
 
 ## Garageboxen
-![garageboxen]({{ '/images/binnen.jpg' | relative_url }})
-![garageboxen]({{ site.baseurl }}/assets/images/binnen.jpg)
+![garageboxen]({{ '/assets/images/binnen.JPG' | relative_url }})
+
 
 ## Op- en overslag
