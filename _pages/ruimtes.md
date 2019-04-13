@@ -2,37 +2,21 @@
 permalink: /ruimtes/
 toc: true
 toc_label: "Ruimtes"
-gallery1:
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-gallery2:
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: http://placehold.it/1920x1080
-    image_path: http://placehold.it/1920x1080
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+werkruimtes:
+  - url: /assets/images/binnen.jpg
+    image_path: /assets/images/binnen.jpg
+    alt: "Binnen"
+    title: "Binnen"
+huisraadopslag:
+  - url: /assets/images/box-binnen-1.jpg
+    image_path: /assets/images/box-binnen-1.jpg
+    alt: "Box binnenkant"
+    title: "Box binnenkant"
 ---
 
 ## Werkruimtes
 
-{% include gallery id="gallery1" %}
+{% include gallery id="werkruimtes" %}
 
 Voorzien van:
 
@@ -43,7 +27,7 @@ Voorzien van:
 
 ## Huisraadopslag
 
-{% include gallery id="gallery2" %}
+{% include gallery id="huisraadopslag" %}
 
 * Beschikbaar in diverse afmetingen
 * Bereikbaar via lift

@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Regio Opslag
-email: barthaakman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,7 +33,7 @@ paginate: 5
 
 # Theme config
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "contrast"
 
 # Includes
 include: ['_pages']
@@ -58,7 +57,8 @@ defaults:
       author_profile: false
       excerpt: "Opslag in uw regio"
       header:
-        overlay_color: '#333'
+        overlay_image: /assets/images/ver.jpg
+        overlay_filter: 0.5
         actions:
           - label: "Medemblik"
             icon: "fas fa-fw fa-boxes"
@@ -69,7 +69,6 @@ defaults:
       sidebar:
         - title: "Telefoon"
           text: <a href="tel:06-20675583">06-20675583</a>
-          url: "/contact/"
         - title: "E-mail"
           text: <a href="mailto:info@regioopslag">info@regioopslag.nl</a>
 
@@ -77,7 +76,7 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/bart.haakman.7"
+      url: "https://www.facebook.com/Regio-Opslag-645715442545262/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
