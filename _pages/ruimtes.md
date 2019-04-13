@@ -31,7 +31,7 @@ Voorzien van:
 * Bereikbaar via lift
 
 ## Garageboxen
-![garageboxen]({{ '/assets/images/binnen.jpg' | relative_url }})
+![garageboxen]({{ '/images/binnen.jpg' | relative_url }})
 ![garageboxen]({{ site.baseurl }}/assets/images/binnen.jpg)
 
 ## Op- en overslag
