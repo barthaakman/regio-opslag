@@ -1,11 +1,11 @@
 # _data/navigation.yml
 # main links
 main:
-  # - title: "Medemblik"
-  #   url: /medemblik/
-  # - title: "Nibbixwoud"
-  #   url: /nibbixwoud/
   - title: "Contact"
     url: /contact/
+  - title: "Medemblik"
+    url: /medemblik/
+  - title: "Nibbixwoud"
+    url: /nibbixwoud/
   - title: "Over"
     url: /over/
