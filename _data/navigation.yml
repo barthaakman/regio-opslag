@@ -3,9 +3,9 @@
 main:
   - title: "Contact"
     url: /contact/
-  - title: "Medemblik"
-    url: /medemblik/
-  - title: "Nibbixwoud"
-    url: /nibbixwoud/
+  # - title: "Medemblik"
+  #   url: /medemblik/
+  # - title: "Nibbixwoud"
+  #   url: /nibbixwoud/
   - title: "Over"
     url: /over/

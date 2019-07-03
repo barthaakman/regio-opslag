@@ -57,15 +57,15 @@ defaults:
       author_profile: false
       excerpt: "Opslag in uw regio"
       header:
-        overlay_image: /assets/images/headerver.jpg
+        overlay_image: /assets/images/headerknip.jpg
         overlay_filter: 0.5
         actions:
           - label: "Medemblik"
             icon: "fas fa-fw fa-boxes"
-            url: "/medemblik/#medemblik"
+            url: "/medemblik/"
           - label: "Nibbixwoud"
-            icon: "fas fa-boxes"
-            url: "/nibbixwoud/#nibbixwoud"
+            icon: "fas fa-fw fa-boxes"
+            url: "/nibbixwoud/"
           - label: "Bel nu 06-20675583"
             icon: "fas fa-phone"
             url: "tel:06-20675583"
