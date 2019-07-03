@@ -26,7 +26,7 @@ github: [metadata]
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 paginate: 5
@@ -57,20 +57,26 @@ defaults:
       author_profile: false
       excerpt: "Opslag in uw regio"
       header:
-        overlay_image: /assets/images/ver.jpg
+        overlay_image: /assets/images/header.jpg
         overlay_filter: 0.5
         actions:
           - label: "Medemblik"
             icon: "fas fa-fw fa-boxes"
             url: "/locaties/#medemblik"
           - label: "Nibbixwoud"
-            icon: "fas fa-fw fa-boxes"
+            icon: "fas fa-boxes"
             url: "/locaties/#nibbixwoud"
-      sidebar:
-        - title: "Telefoon"
-          text: <a href="tel:06-20675583">06-20675583</a>
-        - title: "E-mail"
-          text: <a href="mailto:info@regioopslag">info@regioopslag.nl</a>
+          - label: "Bel nu 06-20675583"
+            icon: "fas fa-phone"
+            url: "tel:06-20675583"
+          - label: "Mail"
+            icon: "fas fa-envelope"
+            url: "mailto:info@regioopslag"
+      # sidebar:
+      #   - title: "Telefoon"
+      #     text: <a href="tel:06-20675583">06-20675583</a>
+      #   - title: "E-mail"
+      #     text: <a href="mailto:info@regioopslag">info@regioopslag.nl</a>
 
 footer:
   links:
