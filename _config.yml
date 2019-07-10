@@ -26,13 +26,14 @@ github: [metadata]
 # Build settings
 markdown: kramdown
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 paginate: 5
 
 # Theme config
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"
 
 # Includes

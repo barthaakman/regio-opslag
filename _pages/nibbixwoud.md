@@ -2,6 +2,7 @@
 permalink: /nibbixwoud/
 toc: true
 toc_label: "Nibbixwoud"
+toc_sticky: true
 ---
 
 # Nibbixwoud

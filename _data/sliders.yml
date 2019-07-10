@@ -1,0 +1,16 @@
+# example slider
+- selector: huisraadopslag1
+  captions: false
+  images:
+    - src: /assets/images/huisraadopslag/huisraadopslag1.jpg
+      alt: Huisraadopslag
+    - src: /assets/images/huisraadopslag/huisraadopslag2.jpg
+      alt: Huisraadopslag
+    - src: /assets/images/huisraadopslag/huisraadopslag3.jpg
+      alt: Huisraadopslag
+    - src: /assets/images/huisraadopslag/huisraadopslag4.jpg
+      alt: Huisraadopslag
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
