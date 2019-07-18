@@ -1,5 +1,5 @@
-# example slider
-- selector: huisraadopslag1
+# huisraad slider
+- selector: huisraadslider
   captions: false
   images:
     - src: /assets/images/huisraadopslag/huisraadopslag1.jpg
@@ -10,6 +10,63 @@
       alt: Huisraadopslag
     - src: /assets/images/huisraadopslag/huisraadopslag4.jpg
       alt: Huisraadopslag
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+# garagebox slider
+- selector: garageboxslider
+  captions: false
+  images:
+    - src: /assets/images/garageboxen/garageboxen1.jpg
+      alt: garageboxen
+    - src: /assets/images/garageboxen/garageboxen2.jpg
+      alt: garageboxen
+    - src: /assets/images/garageboxen/garageboxen3.jpg
+      alt: garageboxen
+    - src: /assets/images/garageboxen/garageboxen4.jpg
+      alt: garageboxen
+    - src: /assets/images/garageboxen/garageboxen4.jpg
+      alt: garageboxen
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+# opoverslag slider
+- selector: opoverslagslider
+  captions: false
+  images:
+    - src: /assets/images/opoverslag/opoverslag1.jpg
+      alt: opoverslag
+    - src: /assets/images/opoverslag/opoverslag2.jpg
+      alt: opoverslag
+    - src: /assets/images/opoverslag/opoverslag3.jpg
+      alt: opoverslag
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+# werkruimtes slider
+- selector: werkruimtesslider
+  captions: false
+  images:
+    - src: /assets/images/werkruimtes/werkruimte1.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte2.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte3.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte4.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte5.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte6.jpg
+      alt: werkruimtes
+    - src: /assets/images/werkruimtes/werkruimte7.jpg
+      alt: werkruimtes
   settings:
     height: "'auto'"
     maxHeight: "'450'"
