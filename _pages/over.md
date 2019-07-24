@@ -9,6 +9,6 @@ Bij ons kunt u tijdelijk of permanent een ruimte huren voor uw inboedel of goede
 
 Bent u op zoek naar een veilige en betaalbare ruimte? Bel gerust om uw wensen te bespreken.
 
-Voor onze huisregels en de algemene bepalingen zie: \[Huisregels\]\[1\]
+Voor onze huisregels en de algemene bepalingen zie: [Huisregels][1]
 
-\[1\]:{{ site.url }}/huisregels/
+[1]:{{ site.url }}/huisregels/
