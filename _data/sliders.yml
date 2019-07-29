@@ -60,8 +60,8 @@
     maxHeight: "'450'"
     disableNav: false
 
-    # nibbixwoud huisraad slider
-- selector: nibbik-huisraadslider
+# nibbixwoud huisraad slider
+- selector: nibbikhuisraadslider
   captions: false
   images:
     - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-1.jpg
@@ -75,8 +75,8 @@
     maxHeight: "'450'"
     disableNav: false
 
-    # nibbixwoud werkruimtes slider
-- selector: nibbik-werkruimtesslider
+# nibbixwoud werkruimtes slider
+- selector: nibbikwerkruimtesslider
   captions: false
   images:
     - src: /assets/images/nibbik-werkruimtes/werkruimte-nibbik-1.jpg
@@ -88,8 +88,8 @@
     maxHeight: "'450'"
     disableNav: false
 
-    # nibbixwoud containers slider
-- selector: nibbik-containersslider
+# nibbixwoud containers slider
+- selector: nibbikcontainersslider
   captions: false
   images:
     - src: /assets/images/nibbik-containers/containers-nibbik-1.jpg

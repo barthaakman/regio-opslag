@@ -12,7 +12,7 @@ image_sliders:
   - opoverslagslider
 ---
 
-# Nibbixwoud
+# Locatie Nibbixwoud
 
 Dorpsstraat 104  
 1688 CJ Nibbixwoud
@@ -36,7 +36,7 @@ Dorpsstraat 104
 
 ## Werkruimtes
 
-{% include slider.html selector="nibbik-werkruimtesslider" %}
+{% include slider.html selector="nibbikwerkruimtesslider" %}
 
 * Diverse afmetingen van 20 m<sup>2</sup> tot 35 m<sup>2</sup>
 * Kantelgaragedeur schuifdeur
@@ -46,7 +46,7 @@ Dorpsstraat 104
 
 ## Huisraadopslag
 
-{% include slider.html selector="nibbik-huisraadslider" %}
+{% include slider.html selector="nibbikhuisraadslider" %}
 
 * Diverse afmetingen van 10 m<sup>2</sup> tot 25 m<sup>2</sup>
 * Bereikbaar via lift
@@ -55,7 +55,7 @@ Dorpsstraat 104
 
 ## Containers
 
-{% include slider.html selector="nibbik-containersslider" %}
+{% include slider.html selector="nibbikcontainersslider" %}
 
 * Afmeting (bxl): 2,5 m x 6 m
 * Afsluitbaar
