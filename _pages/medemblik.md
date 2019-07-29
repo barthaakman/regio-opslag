@@ -1,5 +1,7 @@
 ---
 permalink: /medemblik/
+header:
+  overlay_image: /assets/images/hero-medemblik2.jpg
 toc: false
 toc_label: "Medemblik"
 toc_sticky: true
@@ -9,6 +11,10 @@ image_sliders:
   - garageboxslider
   - opoverslagslider
 ---
+# Locatie Medembik
+
+Nijverheidsweg 7  
+1671 GC Medemblik
 
 ## Route
 

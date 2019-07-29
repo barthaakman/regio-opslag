@@ -2,10 +2,6 @@
 - selector: huisraadslider
   captions: false
   images:
-    - src: /assets/images/huisraadopslag/huisraadopslag1.jpg
-      alt: Huisraadopslag
-    - src: /assets/images/huisraadopslag/huisraadopslag2.jpg
-      alt: Huisraadopslag
     - src: /assets/images/huisraadopslag/huisraadopslag3.jpg
       alt: Huisraadopslag
     - src: /assets/images/huisraadopslag/huisraadopslag4.jpg
@@ -27,7 +23,7 @@
       alt: garageboxen
     - src: /assets/images/garageboxen/garageboxen4.jpg
       alt: garageboxen
-    - src: /assets/images/garageboxen/garageboxen4.jpg
+    - src: /assets/images/garageboxen/garageboxen5.jpg
       alt: garageboxen
   settings:
     height: "'auto'"
@@ -38,11 +34,11 @@
 - selector: opoverslagslider
   captions: false
   images:
-    - src: /assets/images/opoverslag/opoverslag1.jpg
-      alt: opoverslag
-    - src: /assets/images/opoverslag/opoverslag2.jpg
-      alt: opoverslag
     - src: /assets/images/opoverslag/opoverslag3.jpg
+      alt: opoverslag
+    - src: /assets/images/opoverslag/opoverslag4.jpg
+      alt: opoverslag
+    - src: /assets/images/opoverslag/opoverslag5.jpg
       alt: opoverslag
   settings:
     height: "'auto'"
@@ -53,20 +49,55 @@
 - selector: werkruimtesslider
   captions: false
   images:
-    - src: /assets/images/werkruimtes/werkruimte1.jpg
-      alt: werkruimtes
     - src: /assets/images/werkruimtes/werkruimte2.jpg
-      alt: werkruimtes
-    - src: /assets/images/werkruimtes/werkruimte3.jpg
-      alt: werkruimtes
-    - src: /assets/images/werkruimtes/werkruimte4.jpg
       alt: werkruimtes
     - src: /assets/images/werkruimtes/werkruimte5.jpg
       alt: werkruimtes
     - src: /assets/images/werkruimtes/werkruimte6.jpg
       alt: werkruimtes
-    - src: /assets/images/werkruimtes/werkruimte7.jpg
-      alt: werkruimtes
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+    # nibbixwoud huisraad slider
+- selector: nibbik-huisraadslider
+  captions: false
+  images:
+    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-1.jpg
+      alt: huisraadopslag
+    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-2.jpg
+      alt: huisraadopslag
+    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-3.jpg
+      alt: huisraadopslag
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+    # nibbixwoud werkruimtes slider
+- selector: nibbik-werkruimtesslider
+  captions: false
+  images:
+    - src: /assets/images/nibbik-werkruimtes/werkruimte-nibbik-1.jpg
+      alt: werkruimte
+    - src: /assets/images/nibbik-werkruimtes/werkruimte-nibbik-2.jpg
+      alt: werkruimte
+  settings:
+    height: "'auto'"
+    maxHeight: "'450'"
+    disableNav: false
+
+    # nibbixwoud containers slider
+- selector: nibbik-containersslider
+  captions: false
+  images:
+    - src: /assets/images/nibbik-containers/containers-nibbik-1.jpg
+      alt: containers
+    - src: /assets/images/nibbik-containers/containers-nibbik-2.jpg
+      alt: containers
+    - src: /assets/images/nibbik-containers/containers-nibbik-3.jpg
+      alt: containers
   settings:
     height: "'auto'"
     maxHeight: "'450'"

@@ -1,5 +1,7 @@
 ---
 permalink: "/over/"
+header:
+  overlay_image: /assets/images/hero-over.jpg
 
 ---
 # Over ons

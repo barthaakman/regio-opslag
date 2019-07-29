@@ -1,6 +1,8 @@
 ---
 title: "Regio Opslag"
 permalink: /
+header:
+  overlay_image: /assets/images/hero-home.jpg
 feature_row:
   - image_path: http://images.weserv.nl/?url=https://raw.githubusercontent.com/barthaakman/barthaakman.github.io/master/assets/images/werkruimtes/werkruimte1.jpg&w=350&h=250&output=jpg&q=50&t=square
     alt: "Medemblik"
@@ -10,7 +12,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Ruimtes en details"
 feature_row2:
-  - image_path: http://images.weserv.nl/?url=https://raw.githubusercontent.com/barthaakman/barthaakman.github.io/master/assets/images/werkruimtes/werkruimte4.jpg&w=350&h=250&output=jpg&q=50&t=square
+  - image_path: http://images.weserv.nl/?url=https://raw.githubusercontent.com/barthaakman/barthaakman.github.io/master/assets/images/nibbik-cta-home.jpg&w=350&h=250&output=jpg&q=50&t=square
     alt: "Nibbixwoud"
     title: "Nibbixwoud"
     excerpt: "Units van 20 m2 tot 35 m2. 5 minuten rijden vanaf de A7. 24/7 cameratoezicht."

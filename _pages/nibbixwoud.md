@@ -1,5 +1,7 @@
 ---
 permalink: /nibbixwoud/
+header:
+  overlay_image: /assets/images/hero-nibbik.jpg
 toc: false
 toc_label: "Nibbixwoud"
 toc_sticky: true
@@ -9,6 +11,11 @@ image_sliders:
   - garageboxslider
   - opoverslagslider
 ---
+
+# Nibbixwoud
+
+Dorpsstraat 104  
+1688 CJ Nibbixwoud
 
 ## Route
 
@@ -29,7 +36,7 @@ image_sliders:
 
 ## Werkruimtes
 
-{% include slider.html selector="werkruimtesslider" %}
+{% include slider.html selector="nibbik-werkruimtesslider" %}
 
 * Diverse afmetingen van 20 m<sup>2</sup> tot 35 m<sup>2</sup>
 * Kantelgaragedeur schuifdeur
@@ -39,7 +46,7 @@ image_sliders:
 
 ## Huisraadopslag
 
-{% include slider.html selector="huisraadslider" %}
+{% include slider.html selector="nibbik-huisraadslider" %}
 
 * Diverse afmetingen van 10 m<sup>2</sup> tot 25 m<sup>2</sup>
 * Bereikbaar via lift
@@ -48,7 +55,7 @@ image_sliders:
 
 ## Containers
 
-{% include slider.html selector="garageboxslider" %}
+{% include slider.html selector="nibbik-containersslider" %}
 
 * Afmeting (bxl): 2,5 m x 6 m
 * Afsluitbaar
