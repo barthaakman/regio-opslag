@@ -64,11 +64,11 @@
 - selector: nibbikhuisraadslider
   captions: false
   images:
-    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-1.jpg
+    - src: /assets/images/nibbikhuisraadopslag/huisraadopslag-nibbik-1.jpg
       alt: huisraadopslag
-    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-2.jpg
+    - src: /assets/images/nibbikhuisraadopslag/huisraadopslag-nibbik-2.jpg
       alt: huisraadopslag
-    - src: /assets/images/nibbik-huisraadopslag/huisraadopslag-nibbik-3.jpg
+    - src: /assets/images/nibbikhuisraadopslag/huisraadopslag-nibbik-3.jpg
       alt: huisraadopslag
   settings:
     height: "'auto'"
@@ -79,9 +79,9 @@
 - selector: nibbikwerkruimtesslider
   captions: false
   images:
-    - src: /assets/images/nibbik-werkruimtes/werkruimte-nibbik-1.jpg
+    - src: /assets/images/nibbikwerkruimtes/werkruimte-nibbik-1.jpg
       alt: werkruimte
-    - src: /assets/images/nibbik-werkruimtes/werkruimte-nibbik-2.jpg
+    - src: /assets/images/nibbikwerkruimtes/werkruimte-nibbik-2.jpg
       alt: werkruimte
   settings:
     height: "'auto'"
@@ -92,11 +92,11 @@
 - selector: nibbikcontainersslider
   captions: false
   images:
-    - src: /assets/images/nibbik-containers/containers-nibbik-1.jpg
+    - src: /assets/images/nibbikcontainers/containers-nibbik-1.jpg
       alt: containers
-    - src: /assets/images/nibbik-containers/containers-nibbik-2.jpg
+    - src: /assets/images/nibbikcontainers/containers-nibbik-2.jpg
       alt: containers
-    - src: /assets/images/nibbik-containers/containers-nibbik-3.jpg
+    - src: /assets/images/nibbikcontainers/containers-nibbik-3.jpg
       alt: containers
   settings:
     height: "'auto'"

@@ -6,10 +6,9 @@ toc: false
 toc_label: "Nibbixwoud"
 toc_sticky: true
 image_sliders:
-  - huisraadslider
-  - werkruimtesslider
-  - garageboxslider
-  - opoverslagslider
+  - nibbikwerkruimtesslider
+  - nibbikhuisraadslider
+  - nibbikcontainersslider
 ---
 
 # Locatie Nibbixwoud
