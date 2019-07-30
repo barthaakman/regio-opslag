@@ -71,7 +71,7 @@ defaults:
             url: "tel:06-20675583"
           - label: "Mail"
             icon: "far fa-envelope"
-            url: "mailto:info@regioopslag"
+            url: "mailto:info@regioopslag.nl"
       # sidebar:
       #   - title: "Telefoon"
       #     text: <a href="tel:06-20675583">06-20675583</a>
