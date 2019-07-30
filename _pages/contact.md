@@ -7,7 +7,7 @@ header:
 # Onze contactgegevens
 
 ### Telefoon: <a href="tel:06-20675583">06-20675583</a>
-### E-mail: <a href="mailto:info@regioopslag">info@regioopslag.nl</a>
+### E-mail: <a href="mailto:info@regioopslag.nl">info@regioopslag.nl</a>
 
 ### Locatie Medemblik:
 
